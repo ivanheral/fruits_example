@@ -11,7 +11,7 @@ const randomFastFood = () =>
 const getRandomNumberBetween = (start, end) =>
   Math.floor(Math.random() * end) + start;
 
-export default {
+export {
   FRUITS,
   FAST_FOODS,
   randomFruit,
