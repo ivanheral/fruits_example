@@ -7,7 +7,7 @@
   "name": "fruits_example",
   "source": "src/foo.ts",
   "unpkg": "dist/foo.umd.js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "bugs": {
     "url": "https://github.com/ivanheral/fruits_example/issues"
   },
